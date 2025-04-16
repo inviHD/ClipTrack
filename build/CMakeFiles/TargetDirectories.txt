@@ -1,0 +1,3 @@
+C:/Users/graef/source/repos/ClipTrack/build/CMakeFiles/ClipTrack.dir
+C:/Users/graef/source/repos/ClipTrack/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/graef/source/repos/ClipTrack/build/CMakeFiles/ZERO_CHECK.dir

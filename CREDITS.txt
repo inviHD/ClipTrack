@@ -1,0 +1,10 @@
+ClipTrack - A clipboard tracker application.
+
+Credits:
+- Icon: Interface clipboard file paper Icon by Royyan Wijaya (https://icon-icons.com/icon/interface-clipboard-file-paper-document-office/132996), licensed under CC BY 4.0.
+  License: https://creativecommons.org/licenses/by/4.0/
+
+- Qt Framework: Licensed under LGPL.
+  License: https://www.gnu.org/licenses/lgpl-3.0.html
+
+This application uses the Qt framework, which is licensed under the LGPL. For more information, see the included LICENSE.txt file or visit https://www.gnu.org/licenses/lgpl-3.0.html.
