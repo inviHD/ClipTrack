@@ -10,5 +10,9 @@ This application uses the Qt framework, which is licensed under the LGPL. For mo
 
 ### How to Run
 1. Install the Qt runtime libraries for your platform.
-2. Build the project using CMake and Ninja.
+2. Build the project using CMake.
 3. Run the `ClipTrack` executable.
+
+(Or you open it with VS)
+
+Its my first serious C++/Qt file, so don't expect it to be perfect.
